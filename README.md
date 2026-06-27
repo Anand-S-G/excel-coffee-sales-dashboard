@@ -5,7 +5,7 @@ An interactive Excel dashboard designed to analyze and visualize global coffee s
 ## Dashboard Preview
 ![Coffee Sales Dashboard](dashboard_preview.png.png)
 
-## 🛠️ Key Skills & Features Demonstrated
+##  Key Skills & Features Demonstrated
 * **Dynamic Data Filtering:** Implemented interactive **Slicers** (Roast Type, Coffee Size, Loyalty Card Status) and an **Order Date Timeline** to allow users to drill down into specific timeframes and product segments.
 * **Advanced Data Cleaning & Modeling:** Handled raw sales tables by parsing out product data, calculating currency fields, and standardizing dates.
 * **Pivot Tables & Charts:** Aggregated thousands of rows of data into structured, easy-to-digest visual charts.
